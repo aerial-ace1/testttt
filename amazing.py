@@ -1,3 +1,3 @@
-print("no")
+print("1")
+print("am")
 print("amazzing")
-print("poeple")
